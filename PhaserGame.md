@@ -2,9 +2,15 @@
 
 [Video](https://youtu.be/TgGdcbs2UqA?si=J9jgHrj_JmRs3w03)
 
+
+[Video de puro entrenamiento](https://youtu.be/sWgUwcCQA54?si=lLqvJiQL-0TSClRG)
+
+
+
 ##Codigo:
 
-´´´
+```python
+
 var w = 800;
 var h = 400;
 var jugador;
@@ -268,3 +274,5 @@ function velocidadRandom(min, max) {
 function render() {
 
 }
+
+```
